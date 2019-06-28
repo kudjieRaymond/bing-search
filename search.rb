@@ -7,6 +7,6 @@ response = RestClient.get "https://www.bing.com/search", {params: {q:query }}
 
 puts "Status :" + response.code
 #puts response.headers
-#puts response.cookies
+#puts response.cookiesgit
 #puts response.body
 
