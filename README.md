@@ -7,5 +7,7 @@
 4. Use RestClient to do a Bing search (yes, Bing) and examine the results (you can find the parameters that Bing wants in the URL by simply making a search in a normal browser. Pay attention to the q= parameter).
 
 …that’s it. The point is to get familiar with making HTTP requests using your command line, which should prepare you for making them from within a Rails app later.
+
+
 Contributors: [Raymond Kudjie](https://github.com/kudjieRaymond),
               [Molnar Emese](https://github.com/Mesi21)
